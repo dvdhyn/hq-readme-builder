@@ -18,8 +18,7 @@
   This will take user inputs and automatically update and format the README accordingly.
   
   ## License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license. See the [LICENSE](LICENSE) file for details.
-  This project is licensed under the This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license. See the [LICENSE](LICENSE) file for details. license. See the [LICENSE](LICENSE) file for details.
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
   
   ## Contributing
   Cloned starter code from student module.
